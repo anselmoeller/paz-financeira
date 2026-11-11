@@ -1,24 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://anselmoeller.github.io/paz-financeira/</loc>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://anselmoeller.github.io/paz-financeira/"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://anselmoeller.github.io/paz-financeira/en/"/>
-    <xhtml:link rel="alternate" hreflang="es-419" href="https://anselmoeller.github.io/paz-financeira/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://anselmoeller.github.io/paz-financeira/"/>
   </url>
   <url>
     <loc>https://anselmoeller.github.io/paz-financeira/en/</loc>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://anselmoeller.github.io/paz-financeira/"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://anselmoeller.github.io/paz-financeira/en/"/>
-    <xhtml:link rel="alternate" hreflang="es-419" href="https://anselmoeller.github.io/paz-financeira/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://anselmoeller.github.io/paz-financeira/"/>
   </url>
   <url>
     <loc>https://anselmoeller.github.io/paz-financeira/es/</loc>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://anselmoeller.github.io/paz-financeira/"/>
-    <xhtml:link rel="alternate" hreflang="en-US" href="https://anselmoeller.github.io/paz-financeira/en/"/>
-    <xhtml:link rel="alternate" hreflang="es-419" href="https://anselmoeller.github.io/paz-financeira/es/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://anselmoeller.github.io/paz-financeira/"/>
   </url>
 </urlset>
