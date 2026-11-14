@@ -1,3 +1,7 @@
 https://anselmoeller.github.io/paz-financeira/
 https://anselmoeller.github.io/paz-financeira/en/
 https://anselmoeller.github.io/paz-financeira/es/
+https://anselmoeller.github.io/paz-financeira/fr/
+https://anselmoeller.github.io/paz-financeira/de/
+https://anselmoeller.github.io/paz-financeira/id/
+https://anselmoeller.github.io/paz-financeira/it/
