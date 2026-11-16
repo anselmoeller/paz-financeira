@@ -8,3 +8,10 @@ https://anselmoeller.github.io/paz-financeira/id/
 https://anselmoeller.github.io/paz-financeira/privacy/
 https://anselmoeller.github.io/paz-financeira/en/privacy/
 https://anselmoeller.github.io/paz-financeira/es/privacy/
+https://anselmoeller.github.io/paz-financeira/video/
+https://anselmoeller.github.io/paz-financeira/en/video/
+https://anselmoeller.github.io/paz-financeira/es/video/
+https://anselmoeller.github.io/paz-financeira/fr/video/
+https://anselmoeller.github.io/paz-financeira/de/video/
+https://anselmoeller.github.io/paz-financeira/it/video/
+https://anselmoeller.github.io/paz-financeira/id/video/
