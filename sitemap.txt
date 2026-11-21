@@ -33,3 +33,4 @@ https://anselmoeller.github.io/paz-financeira/fr/guides/revenus-et-depenses/
 https://anselmoeller.github.io/paz-financeira/de/ratgeber/einnahmen-und-ausgaben/
 https://anselmoeller.github.io/paz-financeira/it/guide/entrate-e-uscite/
 https://anselmoeller.github.io/paz-financeira/id/panduan/pemasukan-dan-pengeluaran/
+https://anselmoeller.github.io/paz-financeira/como-usar/

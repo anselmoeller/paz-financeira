@@ -1,0 +1,12 @@
+/* Paz Financeira — integração pontual do tutorial em português (21/11/2026) */
+.pf-tutorial-spotlight{margin:1.2rem 0 2rem;padding:clamp(1.1rem,3vw,2rem);border:1px solid #c5dec8;border-radius:18px;background:linear-gradient(120deg,#ecf8ef,#ffffff);color:#143e21;box-shadow:0 8px 28px rgba(20,62,33,.06)}
+.pf-tutorial-spotlight .pf-tut-grid{display:grid;grid-template-columns:minmax(220px,0.75fr) minmax(0,1fr);gap:1.4rem;align-items:center}
+.pf-tutorial-spotlight h2{font-size:clamp(1.35rem,3vw,2rem);line-height:1.2;margin:.25rem 0 .65rem;color:#184c29}
+.pf-tutorial-spotlight p{line-height:1.6;margin:.65rem 0;color:#2f4a39}
+.pf-tutorial-spotlight .pf-tut-label{font-weight:700;text-transform:uppercase;letter-spacing:.08em;font-size:.78rem;color:#386949}
+.pf-tutorial-spotlight .pf-tut-thumb{display:block;position:relative;overflow:hidden;border-radius:12px;background:#173421}
+.pf-tutorial-spotlight .pf-tut-thumb img{display:block;aspect-ratio:16/9;object-fit:cover;width:100%;height:auto}
+.pf-tutorial-spotlight .pf-tut-thumb span{position:absolute;bottom:.6rem;left:.6rem;display:inline-block;background:#13341fe8;color:white;padding:.35rem .7rem;border-radius:6px;font-weight:700;font-size:.85rem}
+.pf-tutorial-spotlight .pf-tut-link{display:inline-block;padding:.75rem 1.1rem;background:#216c36;color:white!important;border-radius:10px;text-decoration:none;font-weight:700}
+.pf-tutorial-spotlight .pf-tut-link:hover,.pf-tutorial-spotlight .pf-tut-link:focus-visible{background:#164d26;outline-offset:3px}
+@media(max-width:650px){.pf-tutorial-spotlight .pf-tut-grid{grid-template-columns:1fr}.pf-tutorial-spotlight{margin:1rem 0}}
