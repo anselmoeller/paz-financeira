@@ -34,3 +34,10 @@ https://anselmoeller.github.io/paz-financeira/de/ratgeber/einnahmen-und-ausgaben
 https://anselmoeller.github.io/paz-financeira/it/guide/entrate-e-uscite/
 https://anselmoeller.github.io/paz-financeira/id/panduan/pemasukan-dan-pengeluaran/
 https://anselmoeller.github.io/paz-financeira/como-usar/
+https://anselmoeller.github.io/paz-financeira/recursos/
+https://anselmoeller.github.io/paz-financeira/recursos/en/
+https://anselmoeller.github.io/paz-financeira/recursos/es/
+https://anselmoeller.github.io/paz-financeira/recursos/fr/
+https://anselmoeller.github.io/paz-financeira/recursos/de/
+https://anselmoeller.github.io/paz-financeira/recursos/id/
+https://anselmoeller.github.io/paz-financeira/recursos/it/
